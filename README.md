@@ -8,4 +8,4 @@ Comparison between portfolios type: https://investresolve.com/blog/portfolio-opt
 
 ## Basic formulas:
 
-<img src="https://github.com/neo-portfolio/Documentation/images/basic_formulas.jpg?raw=true" />
+<img src="https://github.com/neo-portfolio/Documentation/blob/master/images/basic_formulas.png?raw=true" />
